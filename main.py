@@ -97,4 +97,4 @@ if __name__ == "__main__":
                 print()
 
 
-# Some people say 5G technology spreads COVID-19.
+# Sample input= Some people say 5G technology spreads COVID-19.
