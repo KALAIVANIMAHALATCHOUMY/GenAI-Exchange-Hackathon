@@ -1,0 +1,7 @@
+requests
+transformers
+torch
+Pillow
+numpy
+joblib
+shap
